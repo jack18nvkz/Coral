@@ -1,0 +1,27 @@
+.contact {
+    width: 90%;
+    height: 50px;
+    margin: 5px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #A1A4A3;
+    border-radius: 5px;
+}
+
+.bodyContainer{
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 60%;
+}
+
+.options{
+    margin: auto;
+}
+
+p{
+    margin: auto;
+    font-family: sans-serif;
+    color: #16282E;
+}

@@ -1,0 +1,11 @@
+.App {
+    width: 75%;
+    height: 100vh;
+    min-width: 900px;
+    min-height: 700px;
+    margin: auto;
+    border-radius: 15px;
+    background-color: #17282F;
+    display: flex;
+    flex-direction: row;
+}

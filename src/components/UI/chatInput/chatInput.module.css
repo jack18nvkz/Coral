@@ -1,0 +1,47 @@
+.chatInput {
+    width: 100%;
+    height: 7%;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+
+.inputContainer {
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    height: 90%;
+    flex-basis: 90%;
+    border: 1px solid #727F85;
+    border-radius: 25px;
+}
+
+.sendButton {
+    width: 45px;
+    height: 45px;
+    display: flex;
+    margin: auto;
+}
+
+.sendSmile {
+    margin: auto;
+}
+
+.inputField {
+    margin: auto;
+    background: transparent;
+    border: none;
+    font-size: 18px;
+    flex-basis: 80%;
+    color: #676866;
+    resize: none;
+    line-height: 1;
+}
+
+.inputField:focus{
+    outline: none;
+}
+
+.inputField::-webkit-scrollbar{
+    display: none;
+}

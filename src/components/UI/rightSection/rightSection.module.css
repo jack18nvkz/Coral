@@ -1,0 +1,9 @@
+.rightSection {
+    flex-basis: 90%;
+    background-color: #E4E4DF;
+    height: 98%;
+    margin: 10px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row;
+}

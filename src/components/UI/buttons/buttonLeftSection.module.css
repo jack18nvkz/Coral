@@ -1,0 +1,11 @@
+.background {
+    margin: 5px auto;
+    width: 90%;
+    height: 8%;
+    display: flex;
+}
+
+.active {
+    background-color: #3A454D;
+    border-radius: 35px;
+}

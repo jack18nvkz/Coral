@@ -1,0 +1,8 @@
+.leftSection{
+    flex-basis: 15%;
+    max-width: 75px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 10px;
+}
