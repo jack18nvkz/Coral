@@ -1,0 +1,31 @@
+.message {
+    margin: 5px;
+    width: 60%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #A0A4A2;
+}
+
+div.message > p {
+    margin: 10px;
+    height: auto;
+    width: auto;
+}
+
+.text{
+    color: #17282F;
+}
+
+.status {
+    display: flex;
+    flex-direction: row;
+    align-self: flex-end;
+}
+
+.time {
+    font-size: 12px;
+    color: #727F85;
+    align-self: flex-end;
+}
