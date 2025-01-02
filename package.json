@@ -4,10 +4,12 @@
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
+    "create-react-app": "^5.0.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-icons": "^5.4.0",
-    "react-scripts": "5.0.1"
+    "react-scripts": "^3.0.1",
+    "vite": "^6.0.6",
+    "ws": "^8.18.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -35,5 +37,17 @@
   },
   "devDependencies": {
     "web-vitals": "^4.2.4"
-  }
+  },
+  "description": "Second try to make a chat app",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jack18nvkz/Coral.git"
+  },
+  "author": "jack27nvkz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jack18nvkz/Coral/issues"
+  },
+  "homepage": "https://github.com/jack18nvkz/Coral#readme"
 }

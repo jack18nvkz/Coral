@@ -4,10 +4,7 @@ import Contact from "../contact/contact";
 
 const ContactSection = () => {
     const [contacts, setContacts] = useState([
-        {name: '1', key: 1},
-        {name: '1', key: 2},
-        {name: '1', key: 3},
-        {name: '1', key: 4}
+
     ]);
 
     return (

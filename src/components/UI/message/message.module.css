@@ -8,17 +8,21 @@
     box-shadow: 0 0 10px #A0A4A2;
 }
 
-div.message > p {
-    margin: 10px;
-    height: auto;
-    width: auto;
+.right {
+    background-color: #727F85;
+    color: #E4E4DF;
 }
 
 .text{
+    margin: 3px 3px 0 3px;
+    padding: 3px;
+    font-size: 1em;
+    font-family: sans-serif;
     color: #17282F;
 }
 
 .status {
+    margin: 0 5px 5px 5px;
     display: flex;
     flex-direction: row;
     align-self: flex-end;

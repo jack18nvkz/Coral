@@ -5,9 +5,7 @@ import Message from "../message/message";
 const ChatField = () => {
     return (
         <div className={classes.chatField}>
-            <Message side={'right'}></Message>
-            <Message></Message>
-            <Message></Message>
+
         </div>
     );
 };

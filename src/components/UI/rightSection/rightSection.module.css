@@ -7,3 +7,41 @@
     display: flex;
     flex-direction: row;
 }
+
+.leftContainer {
+    margin: 5px;
+    flex-basis: 40%;
+    display: flex;
+    flex-direction: column;
+}
+
+.rightContainer {
+    margin: 5px;
+    flex-basis: 60%;
+    display: flex;
+}
+
+.chatEmpty {
+    display: none;
+    flex-basis: 60%;
+    height: 100%;
+}
+
+.rightSection > hr {
+    margin: 5px;
+}
+
+.optionsContainer {
+    width: 90%;
+    height: 7%;
+    display: flex;
+    flex-direction: row;
+    margin: auto 10px 10px 10px;
+    border-radius: 15px;
+    background-color: #16282E;
+}
+
+.addContact {
+    margin: auto;
+}
+
